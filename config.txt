@@ -1,0 +1,6 @@
+owner=512279467977343006
+prefix=1
+game=made by AK | 1play
+stayinchannel=true
+songinstatus=false
+token=NTU2MTg2MjM1NzYxMzI4MTQy.D22EhQ.xg1Tlg8nL4m_6KmzdE9eItBdYFA
